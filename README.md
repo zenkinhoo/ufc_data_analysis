@@ -1,0 +1,3 @@
+- Academic data science project
+- Analysed data of UFC (Ultimate Fighting Championship) of fighters, matches, coaches and more
+- pandas, matplotlib
